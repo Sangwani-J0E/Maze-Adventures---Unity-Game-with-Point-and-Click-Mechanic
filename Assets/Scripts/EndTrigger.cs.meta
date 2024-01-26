@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97e49287f5273354e823786eac5b5b8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playeranimator: {instanceID: 0}
+  - triggerPrefab: {instanceID: 0}
+  - GameMngr: {instanceID: 0}
+  - gamefinishedui: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
